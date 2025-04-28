@@ -4,3 +4,4 @@ numpy
 sklearn
 tensorflow
 matplotlib
+sklearn
