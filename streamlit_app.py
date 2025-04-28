@@ -61,7 +61,7 @@ def build_model(timesteps, num_features):
 # ========================================
 
 def main():
-    st.title("Stock Return Prediction (Rebuild Transformer + Load Weights)")
+    st.title("Stock Return Prediction")
 
     uploaded_file = st.file_uploader("Upload CSV File", type=["csv"])
 
